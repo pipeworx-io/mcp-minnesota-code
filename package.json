@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-minnesota-code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Minnesota Statutes — state statutes by citation.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-82900c528c828527f79611f3b5290cb47ce4d9ac1cf8ef3bc38631089b95a154",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-d7273a1fb0ce5696b8ee30b58a8a957a5e5fcf8173d5e83913305d1f67d432e3",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
